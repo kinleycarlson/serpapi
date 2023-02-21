@@ -1,0 +1,536 @@
+{
+     "search_metadata": {
+          "id": "63ee85913d69197b4e3cc8f4",
+          "status": "Success",
+          "json_endpoint": "https://serpapi.com/searches/a45a0a17ecaeb68a/63ee85913d69197b4e3cc8f4.json",
+          "created_at": "2023-02-16 19:35:45 UTC",
+          "processed_at": "2023-02-16 19:35:45 UTC",
+          "google_url": "https://www.google.com/search?q=fencing+contractors&oq=fencing+contractors&uule=w+CAIQICIdQXRsYW50YSxHZW9yZ2lhLFVuaXRlZCBTdGF0ZXM&gl=us&tbm=lcl&sourceid=chrome&ie=UTF-8",
+          "raw_html_file": "https://serpapi.com/searches/a45a0a17ecaeb68a/63ee85913d69197b4e3cc8f4.html",
+          "total_time_taken": 0.87
+     },
+     "search_parameters": {
+          "engine": "google",
+          "q": "fencing contractors",
+          "location_requested": "Atlanta,Georgia",
+          "location_used": "Atlanta,Georgia,United States",
+          "google_domain": "google.com",
+          "hl": "en",
+          "gl": "us",
+          "device": "desktop",
+          "tbm": "lcl"
+     },
+     "search_information": {
+          "local_results_state": "Results for exact spelling",
+          "query_displayed": "fencing contractors"
+     },
+     "local_results": [
+          {
+               "position": 1,
+               "title": "Ergeon",
+               "place_id": "668325390346656765",
+               "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Atlanta%2CGeorgia&ludocid=668325390346656765&q=fencing+contractors&tbm=lcl",
+               "lsig": "AB86z5UMTiMWZirxJ_Dto2xmlGp7",
+               "rating": 4.9,
+               "reviews_original": "(78)",
+               "reviews": 78,
+               "type": "Fence contractor",
+               "years_in_business": "3+ years in business",
+               "address": "Atlanta, GA",
+               "phone": "(770) 692-1785",
+               "hours": "Open \u22c5 Closes 8 PM",
+               "gps_coordinates": {
+                    "latitude": 33.7119041,
+                    "longitude": -84.4558871
+               },
+               "service_options": {
+                    "online_estimates": true
+               },
+               "links": {
+                    "website": "https://www.ergeon.com/fences/cities/fulton-county-atlanta-ga?utm_source=google&utm_medium=website&utm_campaign=GMB-brand&utm_location=atlanta",
+                    "directions": "https://www.google.com/maps/dir//Ergeon,+2059+Honeysuckle+Ln+SW,+Atlanta,+GA+30311/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88f51d56c1bb0047:0x9465e66cdfc9bfd?sa=X&gl=us"
+               }
+          },
+          {
+               "position": 2,
+               "title": "Precision Fenceworks Atlanta",
+               "place_id": "8673788406859343136",
+               "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Atlanta%2CGeorgia&ludocid=8673788406859343136&q=fencing+contractors&tbm=lcl",
+               "lsig": "AB86z5XcNYFAiAwd4ocBaq8Rzqh_",
+               "rating": 4.8,
+               "reviews_original": "(114)",
+               "reviews": 114,
+               "type": "Fence contractor",
+               "address": "5+ years in business",
+               "phone": "(770) 725-0777",
+               "hours": "Open \u22c5 Closes 5 PM",
+               "gps_coordinates": {
+                    "latitude": 33.869620999999995,
+                    "longitude": -84.53029219999999
+               },
+               "links": {
+                    "website": "http://www.precisionfenceworks.com/"
+               }
+          },
+          {
+               "position": 3,
+               "title": "NEED-A-FENCE, INC.",
+               "place_id": "12236894844913215957",
+               "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Atlanta%2CGeorgia&ludocid=12236894844913215957&q=fencing+contractors&tbm=lcl",
+               "lsig": "AB86z5XGXQcwDASMYOt9FcGIZ-fl",
+               "rating": 4.5,
+               "reviews_original": "(37)",
+               "reviews": 37,
+               "type": "Fence contractor",
+               "years_in_business": "10+ years in business",
+               "address": "Smyrna, GA",
+               "phone": "(770) 426-8888",
+               "hours": "Open \u22c5 Closes 5 PM",
+               "gps_coordinates": {
+                    "latitude": 33.660472299999995,
+                    "longitude": -84.30345679999999
+               },
+               "links": {
+                    "website": "http://needafenceinc.com/",
+                    "directions": "https://www.google.com/maps/dir//NEED-A-FENCE,+INC.,+3470+Lake+Dr+SE,+Smyrna,+GA+30082/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88f5174f26a4c581:0xa9d22f0710dc69d5?sa=X&gl=us"
+               }
+          },
+          {
+               "position": 4,
+               "title": "Alcovy Fence",
+               "place_id": "2374514688058308017",
+               "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Atlanta%2CGeorgia&ludocid=2374514688058308017&q=fencing+contractors&tbm=lcl",
+               "lsig": "AB86z5XkxaFIpBjcHAfa4h_am2yD",
+               "rating": 4.2,
+               "reviews_original": "(30)",
+               "reviews": 30,
+               "type": "Fence contractor",
+               "address": "25+ years in business",
+               "phone": "(404) 242-9982",
+               "hours": "Open \u22c5 Closes 6 PM",
+               "gps_coordinates": {
+                    "latitude": 33.8131027,
+                    "longitude": -84.5417176
+               },
+               "service_options": {
+                    "online_estimates": true
+               },
+               "links": {
+                    "website": "http://www.alcovyfence.com/"
+               }
+          },
+          {
+               "position": 5,
+               "title": "Foster Fencing",
+               "place_id": "4144390924205653279",
+               "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Atlanta%2CGeorgia&ludocid=4144390924205653279&q=fencing+contractors&tbm=lcl",
+               "lsig": "AB86z5XkInI_359y50ZhFhOVdka0",
+               "rating": 4.1,
+               "reviews_original": "(27)",
+               "reviews": 27,
+               "type": "Fence contractor",
+               "address": "Conley, GA",
+               "phone": "(404) 241-1947",
+               "hours": "Open \u22c5 Closes 5 PM",
+               "gps_coordinates": {
+                    "latitude": 33.978561,
+                    "longitude": -84.5410966
+               },
+               "links": {
+                    "directions": "https://www.google.com/maps/dir//Foster+Fencing,+4199+Clark+St,+Conley,+GA+30288/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88f4ffd86d923981:0x3983d5966fa17d1f?sa=X&gl=us"
+               }
+          },
+          {
+               "position": 6,
+               "title": "Top Ace Fence & Decks | General Contractor Atlanta",
+               "place_id": "11359306190978754852",
+               "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Atlanta%2CGeorgia&ludocid=11359306190978754852&q=fencing+contractors&tbm=lcl",
+               "lsig": "AB86z5Uzar5KNcfCqWar1aTiVnal",
+               "rating": 4.7,
+               "reviews_original": "(32)",
+               "reviews": 32,
+               "type": "Fence contractor",
+               "address": "5+ years in business",
+               "phone": "(404) 512-8082",
+               "hours": "Open \u22c5 Closes 5 PM",
+               "gps_coordinates": {
+                    "latitude": 33.9079621,
+                    "longitude": -84.23866269999999
+               },
+               "links": {
+                    "website": "https://www.topacec.com/"
+               }
+          },
+          {
+               "position": 7,
+               "title": "Hawk Fences LLC",
+               "place_id": "5934361753324940761",
+               "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Atlanta%2CGeorgia&ludocid=5934361753324940761&q=fencing+contractors&tbm=lcl",
+               "lsig": "AB86z5V6bFBFTgAUj1IG9--SNtDo",
+               "rating": 5.0,
+               "reviews_original": "(10)",
+               "reviews": 10,
+               "type": "Fence contractor",
+               "hours": "Open \u22c5 Closes 6 PM",
+               "phone": "(404) 324-3368",
+               "gps_coordinates": {
+                    "latitude": 33.722297499999996,
+                    "longitude": -84.50898939999999
+               },
+               "service_options": {
+                    "online_estimates": true
+               },
+               "links": {
+                    "website": "http://hawkfences.com/"
+               }
+          },
+          {
+               "position": 8,
+               "title": "Best Choice Fencing & Landscaping",
+               "place_id": "16417681108622663994",
+               "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Atlanta%2CGeorgia&ludocid=16417681108622663994&q=fencing+contractors&tbm=lcl",
+               "lsig": "AB86z5WIlrJ2eDx1sHyXsjwuucIE",
+               "rating": 5.0,
+               "reviews_original": "(29)",
+               "reviews": 29,
+               "type": "Fence contractor",
+               "address": "7+ years in business",
+               "phone": "(404) 692-3917",
+               "hours": "Open \u22c5 Closes 5 PM",
+               "gps_coordinates": {
+                    "latitude": 33.995754000000005,
+                    "longitude": -84.58948
+               },
+               "links": {
+                    "website": "http://bestchoicefencing.com/"
+               }
+          },
+          {
+               "position": 9,
+               "title": "BW Fence & Roofing - Affordable Fencing Company, Professional Fence Installers, Fence Repair and Replacement",
+               "place_id": "4998529353072482640",
+               "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Atlanta%2CGeorgia&ludocid=4998529353072482640&q=fencing+contractors&tbm=lcl",
+               "lsig": "AB86z5XLfKP_OZb9p93RDizO30Hw",
+               "rating": 4.0,
+               "reviews_original": "(6)",
+               "reviews": 6,
+               "type": "Fence contractor",
+               "address": "35+ years in business",
+               "phone": "(404) 369-0737",
+               "hours": "Open \u22c5 Closes 5 PM",
+               "gps_coordinates": {
+                    "latitude": 33.780401399999995,
+                    "longitude": -84.2833953
+               },
+               "links": {
+                    "website": "https://bwfencenroofing.com/"
+               }
+          },
+          {
+               "position": 10,
+               "title": "Allied Fence Co",
+               "place_id": "2978641679099139317",
+               "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Atlanta%2CGeorgia&ludocid=2978641679099139317&q=fencing+contractors&tbm=lcl",
+               "lsig": "AB86z5X8eXFOHEX6BdhXbaOyXkQi",
+               "rating": 3.5,
+               "reviews_original": "(40)",
+               "reviews": 40,
+               "type": "Fence contractor",
+               "years_in_business": "65+ years in business",
+               "address": "Mableton, GA",
+               "phone": "(770) 944-1501",
+               "hours": "Open \u22c5 Closes 5 PM",
+               "gps_coordinates": {
+                    "latitude": 33.9697952,
+                    "longitude": -84.1897484
+               },
+               "links": {
+                    "website": "https://www.alliedfence.com/",
+                    "directions": "https://www.google.com/maps/dir//Allied+Fence+Co,+430+Veterans+Memorial+Hwy+SE,+Mableton,+GA+30126/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88f5199fb1a9fe89:0x295642d35be094f5?sa=X&gl=us"
+               }
+          },
+          {
+               "position": 11,
+               "title": "Bravo Fence Company",
+               "place_id": "5019240676945684652",
+               "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Atlanta%2CGeorgia&ludocid=5019240676945684652&q=fencing+contractors&tbm=lcl",
+               "lsig": "AB86z5XUxhSYl8u_H7-zlvrTDhNG",
+               "rating": 4.8,
+               "reviews_original": "(1.3K)",
+               "reviews": 1300,
+               "type": "Fence contractor",
+               "years_in_business": "20+ years in business",
+               "address": "Marietta, GA",
+               "phone": "(770) 966-9970",
+               "hours": "Open \u22c5 Closes 5 PM",
+               "gps_coordinates": {
+                    "latitude": 33.8997701,
+                    "longitude": -84.2060374
+               },
+               "service_options": {
+                    "onsite_services": true
+               },
+               "links": {
+                    "website": "https://bravofencecompany.com/",
+                    "directions": "https://www.google.com/maps/dir//Bravo+Fence+Company,+1190+Hayes+Industrial+Dr,+Marietta,+GA+30062/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88f56aa1bfc87275:0x45a7eccd7789e8ac?sa=X&gl=us"
+               }
+          },
+          {
+               "position": 12,
+               "title": "Fenceworks of Georgia",
+               "place_id": "472961205636215635",
+               "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Atlanta%2CGeorgia&ludocid=472961205636215635&q=fencing+contractors&tbm=lcl",
+               "lsig": "AB86z5WtNpX_rSiNWm3hqjBeOOT5",
+               "rating": 4.1,
+               "reviews_original": "(86)",
+               "reviews": 86,
+               "type": "Fence contractor",
+               "years_in_business": "7+ years in business",
+               "address": "Atlanta, GA",
+               "phone": "(770) 452-9900",
+               "hours": "Open \u22c5 Closes 5 PM",
+               "gps_coordinates": {
+                    "latitude": 33.9186693,
+                    "longitude": -84.1994697
+               },
+               "links": {
+                    "website": "http://www.fenceworksofga.com/",
+                    "directions": "https://www.google.com/maps/dir//Fenceworks+of+Georgia,+NW,,+300+Piedmont+Ct+NW+Suite+A,+Atlanta,+GA+30340/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88f5a61d8adb6ebb:0x6904bb5ee7cb353?sa=X&gl=us"
+               }
+          },
+          {
+               "position": 13,
+               "title": "Cascade Fence Co",
+               "place_id": "15807919168571923629",
+               "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Atlanta%2CGeorgia&ludocid=15807919168571923629&q=fencing+contractors&tbm=lcl",
+               "lsig": "AB86z5Xk0V4lzZhZzhBFWXfSXjEq",
+               "rating": 3.1,
+               "reviews_original": "(35)",
+               "reviews": 35,
+               "type": "Fence contractor",
+               "years_in_business": "10+ years in business",
+               "address": "Atlanta, GA",
+               "phone": "(404) 344-5226",
+               "gps_coordinates": {
+                    "latitude": 34.0351435,
+                    "longitude": -84.3388861
+               },
+               "links": {
+                    "website": "https://www.cascadefencecompany.com/",
+                    "directions": "https://www.google.com/maps/dir//Cascade+Fence+Co,+1180+Fairburn+Rd+SW,+Atlanta,+GA+30331/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88f51c324fdc8bb3:0xdb6102bad8d15cad?sa=X&gl=us"
+               }
+          },
+          {
+               "position": 14,
+               "title": "Same Day Fence",
+               "place_id": "2409986471594098401",
+               "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Atlanta%2CGeorgia&ludocid=2409986471594098401&q=fencing+contractors&tbm=lcl",
+               "lsig": "AB86z5VoIDeGoWUcNGFUqCa2e32H",
+               "rating": 4.7,
+               "reviews_original": "(247)",
+               "reviews": 247,
+               "type": "Fence contractor",
+               "years_in_business": "15+ years in business",
+               "address": "Kennesaw, GA \u00b7 In Ridenour",
+               "phone": "(770) 852-0853",
+               "hours": "Open \u22c5 Closes 5 PM",
+               "gps_coordinates": {
+                    "latitude": 33.5769297,
+                    "longitude": -84.32684549999999
+               },
+               "service_options": {
+                    "onsite_services": true
+               },
+               "links": {
+                    "website": "https://www.samedayfencecompany.com/",
+                    "directions": "https://www.google.com/maps/dir//Same+Day+Fence,+1300+Ridenour+Blvd+%23100,+Kennesaw,+GA+30152/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88f51573f5cd99b3:0x2171fded60dcfee1?sa=X&gl=us"
+               }
+          },
+          {
+               "position": 15,
+               "title": "Jordan Construction Services / Decks Fences Siding",
+               "place_id": "5373614487684914932",
+               "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Atlanta%2CGeorgia&ludocid=5373614487684914932&q=fencing+contractors&tbm=lcl",
+               "lsig": "AB86z5VQryCIrbyJ78sE1x2b7jQ5",
+               "rating": 4.4,
+               "reviews_original": "(7)",
+               "reviews": 7,
+               "type": "Fence contractor",
+               "years_in_business": "7+ years in business",
+               "address": "Decatur, GA",
+               "phone": "(770) 722-3411",
+               "hours": "Open \u22c5 Closes 5 PM",
+               "gps_coordinates": {
+                    "latitude": 33.780403,
+                    "longitude": -84.283394
+               },
+               "links": {
+                    "directions": "https://www.google.com/maps/dir//Jordan+Construction+Services+%2F+Decks+Fences+Siding,+158+Ridgeland+Ave,+Decatur,+GA+30030/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88f507692173268b:0x4a92e9e7ea5a1ef4?sa=X&gl=us"
+               }
+          },
+          {
+               "position": 16,
+               "title": "Chamblee Fence Company, Inc.",
+               "place_id": "10083629777895500634",
+               "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Atlanta%2CGeorgia&ludocid=10083629777895500634&q=fencing+contractors&tbm=lcl",
+               "lsig": "AB86z5VBZIfgHkvqSsfwsfwl5CZp",
+               "rating": 4.6,
+               "reviews_original": "(378)",
+               "reviews": 378,
+               "type": "Fence contractor",
+               "years_in_business": "60+ years in business",
+               "address": "Norcross, GA",
+               "phone": "(770) 396-4200",
+               "hours": "Open \u22c5 Closes 5 PM",
+               "gps_coordinates": {
+                    "latitude": 33.969795,
+                    "longitude": -84.18975
+               },
+               "service_options": {
+                    "onsite_services": true,
+                    "online_estimates": true
+               },
+               "links": {
+                    "website": "http://www.chambleefence.com/",
+                    "directions": "https://www.google.com/maps/dir//Chamblee+Fence+Company,+Inc.,+4760+Peachtree+Industrial+Blvd+%23100,+Norcross,+GA+30071/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88f5a0de5cfe230d:0x8bf03fdb8e032b5a?sa=X&gl=us"
+               }
+          },
+          {
+               "position": 17,
+               "title": "Buckhead Fence Company",
+               "place_id": "15458249173668725126",
+               "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Atlanta%2CGeorgia&ludocid=15458249173668725126&q=fencing+contractors&tbm=lcl",
+               "lsig": "AB86z5UNpwfR-4xQQIn8_kHnwkcF",
+               "rating": 4.3,
+               "reviews_original": "(39)",
+               "reviews": 39,
+               "type": "Fence contractor",
+               "address": "Norcross, GA",
+               "phone": "(404) 482-1229",
+               "hours": "Open \u22c5 Closes 5 PM",
+               "gps_coordinates": {
+                    "latitude": 33.89977,
+                    "longitude": -84.20604
+               },
+               "service_options": {
+                    "in_store_pickup": true
+               },
+               "links": {
+                    "website": "http://www.buckheadfencing.com/",
+                    "directions": "https://www.google.com/maps/dir//Buckhead+Fence+Company,+6287+Oakwood+Cir+NW,+Norcross,+GA+30093/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88f5a71bd4173351:0xd686bbb8de000186?sa=X&gl=us"
+               }
+          },
+          {
+               "position": 18,
+               "title": "Accent Fence",
+               "place_id": "17110934122749672653",
+               "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Atlanta%2CGeorgia&ludocid=17110934122749672653&q=fencing+contractors&tbm=lcl",
+               "lsig": "AB86z5XfmmgcaX4MSv4B5UgFVqpT",
+               "rating": 4.7,
+               "reviews_original": "(149)",
+               "reviews": 149,
+               "type": "Fence contractor",
+               "years_in_business": "20+ years in business",
+               "address": "Norcross, GA",
+               "phone": "(770) 995-7463",
+               "hours": "Open \u22c5 Closes 5 PM",
+               "gps_coordinates": {
+                    "latitude": 33.91867,
+                    "longitude": -84.19947
+               },
+               "service_options": {
+                    "onsite_services": true,
+                    "online_estimates": true
+               },
+               "links": {
+                    "website": "http://accentfence.net/",
+                    "directions": "https://www.google.com/maps/dir//Accent+Fence,+5755+Goshen+Springs+Rd+Suite+E,+Norcross,+GA+30071/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88f5bf01f003ec73:0xed763fed519abccd?sa=X&gl=us"
+               }
+          },
+          {
+               "position": 19,
+               "title": "Spectrum Fence",
+               "place_id": "13248505283269168132",
+               "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Atlanta%2CGeorgia&ludocid=13248505283269168132&q=fencing+contractors&tbm=lcl",
+               "lsig": "AB86z5WJvNIWBfx0FyedaSIc0cjP",
+               "rating": 4.9,
+               "reviews_original": "(202)",
+               "reviews": 202,
+               "type": "Fence contractor",
+               "years_in_business": "3+ years in business",
+               "address": "Roswell, GA \u00b7 In Roswell Office Suites",
+               "phone": "(770) 367-2925",
+               "hours": "Open \u22c5 Closes 5 PM",
+               "gps_coordinates": {
+                    "latitude": 34.035145,
+                    "longitude": -84.33888
+               },
+               "service_options": {
+                    "onsite_services": true,
+                    "online_estimates": true
+               },
+               "links": {
+                    "website": "http://spectrumfence.com/",
+                    "directions": "https://www.google.com/maps/dir//Spectrum+Fence,+760+Old+Roswell+Rd,+Roswell,+GA+30076/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88f575bb1f263357:0xb7dc255c8e250c04?sa=X&gl=us"
+               }
+          },
+          {
+               "position": 20,
+               "title": "Willoughby Fencing",
+               "place_id": "16808427080683643936",
+               "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Atlanta%2CGeorgia&ludocid=16808427080683643936&q=fencing+contractors&tbm=lcl",
+               "lsig": "AB86z5WkzEiFuW0g7YDF9BietjWe",
+               "rating": 4.9,
+               "reviews_original": "(23)",
+               "reviews": 23,
+               "type": "Fence contractor",
+               "years_in_business": "10+ years in business",
+               "address": "Morrow, GA",
+               "phone": "(770) 990-5915",
+               "hours": "Open \u22c5 Closes 5 PM",
+               "gps_coordinates": {
+                    "latitude": 33.57693,
+                    "longitude": -84.32684
+               },
+               "service_options": {
+                    "onsite_services": true,
+                    "online_estimates": true
+               },
+               "links": {
+                    "website": "https://willoughby-fencing.business.site/",
+                    "directions": "https://www.google.com/maps/dir//Willoughby+Fencing,+1939+Pine+Valley+Dr,+Morrow,+GA+30260/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x88f4f9334968b7fd:0xe943876001346420?sa=X&gl=us"
+               }
+          }
+     ],
+     "pagination": {
+          "current": 1,
+          "next": "https://www.google.com/search?q=fencing+contractors&gl=us&tbm=lcl&ei=koXuY-fxAdafqtsPg7Cr4Ac&start=20&sa=N&ved=2ahUKEwjngv7s5Jr9AhXWj2oFHQPYCnwQ8NMDegQIFxAe",
+          "other_pages": {
+               "2": "https://www.google.com/search?q=fencing+contractors&gl=us&tbm=lcl&ei=koXuY-fxAdafqtsPg7Cr4Ac&start=20&sa=N&ved=2ahUKEwjngv7s5Jr9AhXWj2oFHQPYCnwQ8tMDegQIFxAM",
+               "3": "https://www.google.com/search?q=fencing+contractors&gl=us&tbm=lcl&ei=koXuY-fxAdafqtsPg7Cr4Ac&start=40&sa=N&ved=2ahUKEwjngv7s5Jr9AhXWj2oFHQPYCnwQ8tMDegQIFxAO",
+               "4": "https://www.google.com/search?q=fencing+contractors&gl=us&tbm=lcl&ei=koXuY-fxAdafqtsPg7Cr4Ac&start=60&sa=N&ved=2ahUKEwjngv7s5Jr9AhXWj2oFHQPYCnwQ8tMDegQIFxAQ",
+               "5": "https://www.google.com/search?q=fencing+contractors&gl=us&tbm=lcl&ei=koXuY-fxAdafqtsPg7Cr4Ac&start=80&sa=N&ved=2ahUKEwjngv7s5Jr9AhXWj2oFHQPYCnwQ8tMDegQIFxAS",
+               "6": "https://www.google.com/search?q=fencing+contractors&gl=us&tbm=lcl&ei=koXuY-fxAdafqtsPg7Cr4Ac&start=100&sa=N&ved=2ahUKEwjngv7s5Jr9AhXWj2oFHQPYCnwQ8tMDegQIFxAU",
+               "7": "https://www.google.com/search?q=fencing+contractors&gl=us&tbm=lcl&ei=koXuY-fxAdafqtsPg7Cr4Ac&start=120&sa=N&ved=2ahUKEwjngv7s5Jr9AhXWj2oFHQPYCnwQ8tMDegQIFxAW",
+               "8": "https://www.google.com/search?q=fencing+contractors&gl=us&tbm=lcl&ei=koXuY-fxAdafqtsPg7Cr4Ac&start=140&sa=N&ved=2ahUKEwjngv7s5Jr9AhXWj2oFHQPYCnwQ8tMDegQIFxAY",
+               "9": "https://www.google.com/search?q=fencing+contractors&gl=us&tbm=lcl&ei=koXuY-fxAdafqtsPg7Cr4Ac&start=160&sa=N&ved=2ahUKEwjngv7s5Jr9AhXWj2oFHQPYCnwQ8tMDegQIFxAa",
+               "10": "https://www.google.com/search?q=fencing+contractors&gl=us&tbm=lcl&ei=koXuY-fxAdafqtsPg7Cr4Ac&start=180&sa=N&ved=2ahUKEwjngv7s5Jr9AhXWj2oFHQPYCnwQ8tMDegQIFxAc"
+          }
+     },
+     "serpapi_pagination": {
+          "current": 1,
+          "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Atlanta%2CGeorgia&q=fencing+contractors&start=20&tbm=lcl",
+          "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Atlanta%2CGeorgia&q=fencing+contractors&start=20&tbm=lcl",
+          "other_pages": {
+               "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Atlanta%2CGeorgia&q=fencing+contractors&start=20&tbm=lcl",
+               "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Atlanta%2CGeorgia&q=fencing+contractors&start=40&tbm=lcl",
+               "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Atlanta%2CGeorgia&q=fencing+contractors&start=60&tbm=lcl",
+               "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Atlanta%2CGeorgia&q=fencing+contractors&start=80&tbm=lcl",
+               "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Atlanta%2CGeorgia&q=fencing+contractors&start=100&tbm=lcl",
+               "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Atlanta%2CGeorgia&q=fencing+contractors&start=120&tbm=lcl",
+               "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Atlanta%2CGeorgia&q=fencing+contractors&start=140&tbm=lcl",
+               "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Atlanta%2CGeorgia&q=fencing+contractors&start=160&tbm=lcl",
+               "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Atlanta%2CGeorgia&q=fencing+contractors&start=180&tbm=lcl"
+          }
+     }
+}
